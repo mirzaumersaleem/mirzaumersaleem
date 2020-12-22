@@ -8,11 +8,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Working :**  Backends :computer: | Cloud :cloud: | Devops :cloud:  
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves tea:sweat_smile: But, I prefer coffee :heart: 
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
