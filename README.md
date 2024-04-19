@@ -3,7 +3,7 @@
 <h3 align="center">  Tech Enthusiast | Software Engineer | VP of Engineering </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/mirzaumersaleem/"><img alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C5103AQH11s8kvzuBWw/profile-displayphoto-shrink_200_200/0/1516434108767?e=1619654400&v=beta&t=125bc76F8JgLuq9vANXudI0UYeCihlqLM8t9aXFmyEY"></a>
+<a href="https://www.linkedin.com/in/mirzaumersaleem/"><img alt="LinkedIn" src="https://media.licdn.com/dms/image/D4D03AQHpFPsGoHTYjw/profile-displayphoto-shrink_200_200/0/1677955228390?e=1718841600&v=beta&t=B65yyK1zgzVtSAbw3flO8bBO2wuIdn6szc6jOFRD8tw"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
